@@ -1,5 +1,5 @@
 # coursera-ibm-final-project
-## The problem
+## The Problem
 When you are a foreign student in mexico city always you need to know where rent a room to stay. sometimes you 
 only will decide the cheapest room, but sometimes the cheapest is not the best solutions, because are lonely areas
 without some places to relax and forget the school, or if you are a food lover you wanna rent a room near of the restaurants.
