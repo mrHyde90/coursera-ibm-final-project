@@ -12,3 +12,9 @@ the room, this 2 elements will be the data that we will use. To recolect the dat
 beautifulsoup because we need to extract the data of the elements of the web page. After we will use google geocode to
 convert the addres in longitude and latitude. At last we will use the latitude and longitude in foursquare to see the places
 near to the room and see if there have any correlation with the price.
+
+Report:
+https://drive.google.com/open?id=196I0CQiOWh1XcfSZ1TshAlw6zX-ZwEDv
+
+Presentation:
+https://drive.google.com/open?id=1juqSI5uaIhwd5zrcYotgxgpiLoM69FKY
